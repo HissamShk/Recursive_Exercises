@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536817878 source:c:\users\roo\desktop\fall 2018\csci 301\projects\csci_301_prj_2\project_2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
